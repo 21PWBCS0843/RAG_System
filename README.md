@@ -304,12 +304,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for the beautiful UI framework
 - **FastAPI** for the robust backend framework
 
-## 📞 Support
-
-- **Documentation**: [Full Documentation](docs/README.md)
-- **Issues**: [GitHub Issues](https://github.com/21PWBCS0843/RAG_System.git/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/21PWBCS0843/RAG_System.git/discussions)
-
 ---
 
 <div align="center">
