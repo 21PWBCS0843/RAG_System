@@ -310,10 +310,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/yourusername/rag-chatbot-gemini/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-chatbot-gemini/discussions)
 
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/rag-chatbot-gemini&type=Date)](https://star-history.com/#yourusername/rag-chatbot-gemini&Date)
-
 ---
 
 <div align="center">
