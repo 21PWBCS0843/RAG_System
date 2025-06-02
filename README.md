@@ -81,14 +81,6 @@ graph TD
 5. **Retrieve** - Find most relevant document sections
 6. **Generate** - Gemini AI creates contextual responses
 
-## 📸 Screenshots
-
-### Main Chat Interface
-![Chat Interface](screenshots/chat-interface.png)
-
-### Document Management
-![Document Management](screenshots/document-management.png)
-
 ## 🛠️ Tech Stack
 
 | Component | Technology | Purpose |
@@ -326,7 +318,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made by [Haseeb Hassan](www.linkedin.com/in/haseebhassan17)**
 
 If this project helped you, please consider giving it a ⭐!
 
