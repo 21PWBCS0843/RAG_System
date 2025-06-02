@@ -308,7 +308,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Made by [Haseeb Hassan](www.linkedin.com/in/haseebhassan17)**
+**Made by [Haseeb Hassan](https://github.com/21PWBCS0843)**
 
 If this project helped you, please consider giving it a ⭐!
 
