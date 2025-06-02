@@ -28,7 +28,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/rag-chatbot-gemini.git
+   git clone https://github.com/21PWBCS0843/RAG_System.git
    cd rag-chatbot-gemini
    ```
 
@@ -307,8 +307,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [Full Documentation](docs/README.md)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/rag-chatbot-gemini/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/rag-chatbot-gemini/discussions)
+- **Issues**: [GitHub Issues](https://github.com/21PWBCS0843/RAG_System.git/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/21PWBCS0843/RAG_System.git/discussions)
 
 ---
 
